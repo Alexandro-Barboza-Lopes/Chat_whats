@@ -1,6 +1,6 @@
-## Projeto: Automação Inteligente com n8n, IA e APIs
+## Automação Inteligente com n8n, IA e APIs
 
-Este portfólio demonstra minhas habilidades na criação de soluções automatizadas e inteligentes, com foco na integração de diversas tecnologias para construir fluxos de trabalho eficientes e responsivos. O projeto detalhado abaixo exemplifica minha capacidade de desenvolver chatbots avançados e gerenciar interações complexas.
+Este projeto demonstra minhas habilidades na criação de soluções automatizadas e inteligentes, com foco na integração de diversas tecnologias para construir fluxos de trabalho eficientes e responsivos. O projeto detalhado abaixo exemplifica minha capacidade de desenvolver chatbots avançados e gerenciar interações complexas.
 
 ---
 
